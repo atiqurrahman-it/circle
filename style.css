@@ -1,0 +1,59 @@
+
+.skils{
+    width: 100%;
+    height: 750px;
+    background-color: #ffffff;
+}
+
+/*  some copy code start   */
+svg.radial-progress circle {
+     stroke-width: 8px;
+
+     }
+
+     svg.radial-progress text {
+        stroke:#3c4761;
+        font-size: .8rem;
+       
+        }
+
+svg.Web-Design circle{
+    stroke:#30bae7;
+}
+svg.HTML-CSS circle{
+    stroke:#d74680;
+}
+
+svg.GRAPHIC-DESIGN circle{
+    stroke:#15c7a8;
+}
+
+svg.UI-UX circle{
+    stroke:#eb7d4b;
+}
+/* copy code end   */
+.box h5{
+    padding-top: 3rem !important;
+}
+
+.headaing-underline h1{
+    padding-top: 8rem !important;
+    padding-bottom:2rem !important ;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    font-size:2rem ;
+    font-weight:500 ;
+   
+}
+.headaing-underline h1::after{
+    content: "";
+    display: block;
+    width: 8rem;
+    height: 0.1rem;
+    background-color:black;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+/* .........../ skills section end   ............. */
+/* ####################################################### */
